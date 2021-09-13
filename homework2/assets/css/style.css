@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#main{
+    border: tomato 10px solid;
+    height: 1300px;
+}
+#name{
+    background-color: gray;
+    display: inline-block;
+    position: relative;
+    text-align: end;
+    left: 850px;
+    bottom: 130px;
+}
+#container{
+    padding: 50px 80px 50px 80px;
+    height: 1200px
+}
+hr{
+    height: 5px;
+    background-color: black;
+}
+ul{
+    margin-top: 20px;
+    display: inline-block;
+    list-style: none;
+}
+.secondul{
+    margin-left: 100px;
+}
+.firstul{
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h2{
+    margin-top: 20px;
+}
+#p2{
+    margin-left: 20px;
+}
+.firstexta{
+    background-color: black;
+    color: darkgray;
+    margin-left: 1269px;
+}
+.firstextb{
+    background-color: black;
+    color: darkgray;
+    margin-left: 1269px;
+}
+.secondtext{
+    background-color: black;
+    color: darkgray;
+    margin-left: 1199px;
+}
+.thirdtext{
+    background-color: black;
+    color: darkgray;
+    margin-left: 1199px;
+}
+h4{
+    display: inline-block;
+    margin-top: 20px;
+}
+.thirdul{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.textinref{
+    margin-top: 12px;
+}
